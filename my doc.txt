@@ -2,11 +2,7 @@ this is to define the project under git
 
 variables listing
 
-<<<<<<< HEAD
-a = 100
-=======
-d = 1000
->>>>>>> feature1
+a = 400  
 b = 30
 c = 40
 d = 60
