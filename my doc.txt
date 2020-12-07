@@ -2,7 +2,7 @@ this is to define the project under git
 
 variables listing
 
-d = 400  
+a = 404  
 b = 30
 c = 40
 d = 60
